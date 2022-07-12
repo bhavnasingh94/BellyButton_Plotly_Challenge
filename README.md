@@ -7,7 +7,7 @@ The purpose of this project was to create a website/dashboard for the volunteers
 - Create a visual by sample of the bacteria in question found in the volunteer's belly button, and a
 - Gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
-
+<https://github.com/bhavnasingh94/BellyButton_Plotly_Challenge/blob/main/samples.json>  JSON file
 
 ## Resources
 
